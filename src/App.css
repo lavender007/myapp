@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+.Firstcomponent{
+  background-color: rgb(153, 66, 234)
+}
+.Secondcomponent{
+  background-color: blue;
+}
+.Thirdcomponent{
+  background-color: aqua;
+}
+.Fourthcomponent{
+  background-color: chocolate;
+}
