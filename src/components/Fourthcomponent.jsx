@@ -1,12 +1,9 @@
-import Thirdcomponent from "./Thirdcomponent"
-
 const Fourthcomponent = () => {
     return(
         <div className="Fourthcomponent">
-            <h4>Help</h4>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste, voluptatum error! Enim minus dignissimos consequatur!</p>
+            <h3>THIS IS MY FOURTH COMPONENT</h3>
+            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquam, temporibus.</p>
         </div>
     )
 }
-
-export default Thirdcomponent;
+export default Fourthcomponent;

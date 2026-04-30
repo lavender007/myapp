@@ -4,6 +4,7 @@ import Firstcomponent from './components/Firstcomponent';
 import Secondcomponent from './components/Secondcomponent';
 import Thirdcomponent from './components/Thirdcomponent';
 import Fourthcomponent from './components/Fourthcomponent';
+import Fifthcomponent from './components/Fifthcomponent';
 
 function App() {
   return (
@@ -18,9 +19,12 @@ function App() {
         <Secondcomponent/>
         <Thirdcomponent/>
         <Fourthcomponent/>
+        <Fifthcomponent/>
     </div>
   );
 }
 
 export default App;
 // create two other components i.e contact us and help component and style them with your own content then you rendere them on App.js component 
+// npm start => node package module
+// npm => node package module
